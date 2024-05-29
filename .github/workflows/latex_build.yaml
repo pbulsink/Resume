@@ -10,12 +10,16 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: resume.tex
+      - name: convert to .md
+        uses: Ender-events/pandoc@master
+        with:
+          args: '-s -o resume.tex readme.md'
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:
           name: PDF
           path: resume.pdf
-      - name: Commit pdf
+      - name: Commit pdf & .md
         uses: EndBug/add-and-commit@v9
         with:
           # The name of the user that will be displayed as the author of the commit
