@@ -1,11 +1,12 @@
-::::: resume
-# Contact Information
+Contact Information
+===================
 
-h: bulsinkp@gmail.com w: philip.bulsink@canada.ca
+h: bulsinkp\@gmail.com w: philip.bulsink\@canada.ca
 
 gh: https://github.com/pbulsink\
 
-# Summary
+Summary
+=======
 
 A proven problem solver with expertise in computational, inorganic, and
 analytical chemistry.\
@@ -13,12 +14,12 @@ Comfortable with aggressive learning curves and development of novel
 ideas.\
 Exploring data analysis using Python and R.
 
-# Education
+Education
+=========
 
 **University of Ottawa**\
 *Master's Degree* **2015**\
 
-::: list2
 Thesis: "*Rhenium^I^ Terdentate Compounds: Theoretical and Experimental
 Investigations*"
 
@@ -31,17 +32,15 @@ computational packages. Developed software in Python to simplify &
 accelerate work.
 
 Supervisors: Dr. Tom Woo and Dr. Darrin Richeson
-:::
 
 **University of Waterloo**\
 *Bachelor of Science, Honour's Chemistry, Co-op, Music Minor* **2012**\
 
-::: list2
 Honour's Thesis: "*Solid Sample Analysis by Microplasma Optical Emission
 Spectroscopy*"
-:::
 
-# Professional Experience
+Professional Experience
+=======================
 
 **Characterization Laboratory, CanmetENERGY, Natural Resources Canada**
 Ottawa\
@@ -81,7 +80,8 @@ test samples for distribution to other laboratories.
 
 **Philip D. Bulsink, B.Sc.** Page 2\
 
-# Honours and Distinctions
+Honours and Distinctions
+========================
 
 Excellence in Science - Departmental Achievement Award, Natural
 Resources Canada**2023**\
@@ -99,7 +99,8 @@ Resources Canada**2012**\
 Aileen Proudfoot Award, CanmetENERGY, Natural Resources Canada**2011**\
 Outstanding Co-op ranking, University of Waterloo**2009 -- 2012**
 
-# Selected Publications & Presentations
+Selected Publications & Presentations
+=====================================
 
 Bulsink, P., Sant-Anna, S., Giddings, T., "Quantification of components
 without direct calibration by GC-MS/PolyArc/-FID" *American Chemical
@@ -141,7 +142,8 @@ Caravaggio, G., Stanciulescu, M., Burich, R., Scheier, B., Bulsink, P.
 "Novel Catalysts for NOx Reduction with Reductants Produced In-Situ",
 *DEER Conference*, **2010**.
 
-# Activities
+Activities
+==========
 
 **f1dataR Package**\
 *Author & Maintainer* **2022 -- present**\
@@ -184,7 +186,7 @@ Residence Manager.
 Completed the 'Data Science' specialization on Coursera, offered in
 partnership with Johns Hopkins University.
 
-# Affiliations
+Affiliations
+============
 
-Chemical Institute of Canada (CIC), member 2011 --- Present
-:::::
+American Chemical Society (ACS), member 2019 --- Present
