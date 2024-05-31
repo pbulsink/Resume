@@ -3,7 +3,7 @@
 
 h: bulsinkp\@gmail.com w: philip.bulsink\@canada.ca
 
-gh: https://github.com/pbulsink https://bulsink.ca\
+gh: https://github.com/pbulsink web: https://bulsink.ca\
 
 Summary {#sec:mysidestyle-summary}
 =======
@@ -45,17 +45,22 @@ Spectroscopy*"
 **Characterization Laboratory, CanmetENERGY, Natural Resources Canada**
 Ottawa\
 *Fuels Chemist* **2014 -- Present**\
-Perform method development and routine analysis, including HPLC, GC-MS,
-and GCxGC for solid, liquid and gaseous samples. Manage statistical
-control charts and other documentation for ISO9001 certification.
-Oversee instrument repair and maintenance. Represent laboratory at
-internal and external client meetings.
+Develop novel methods and perform routine analysis using FTIR, HPLC,
+GC-MS, and GCxGC for solid, liquid and gaseous samples. Manage client
+relations, including recommending analysis and costing projects. Oversee
+all liquid and gaseous sample analysis, including final verification of
+reported data. Represent laboratory, department, and Canada at internal
+and external client meetings. Designed and managed international
+round-robin studies of Bio-Liquefaction oils. Provide input to research
+project funding proposals and wrap-ups. Member of Emergency Response and
+Building Emergency and Evacuation teams.
 
 **University of Ottawa, University of Waterloo** Ontario\
 *Laboratory Teaching Assistant* **September 2011 -- May 2014**\
 Teaching assistant for undergraduate labs in general, organic,
 inorganic, analytical, and physical chemistry. Demonstrated techniques
-and explained theoretical basis for experiments.
+and explained theoretical basis for experiments. Supervised students
+performing chemical laboratory exercises.
 
 **CanmetENERGY, Natural Resources Canada**Ottawa\
 *Research Assistant - DeNO~x~ Group* **May 2010 -- August 2011 (12
@@ -78,7 +83,7 @@ Adhered to stringent ISO 17025 and ISO 14000 specifications while
 performing various chemical analysis. Prepared and tracked round-robin
 test samples for distribution to other laboratories.
 
-**Philip D. Bulsink, B.Sc.** Page 2\
+**Philip D. Bulsink, B.Sc., M.Sc.** Page 2\
 
  Honours and Distinctions {#sec:mysidestyle-honours-anddistinctions}
 ========================
@@ -142,26 +147,35 @@ Caravaggio, G., Stanciulescu, M., Burich, R., Scheier, B., Bulsink, P.
 "Novel Catalysts for NOx Reduction with Reductants Produced In-Situ",
 *DEER Conference*, **2010**.
 
+**Philip D. Bulsink, B.Sc., M.Sc.** Page 3\
+
 Activities {#sec:mysidestyle-activities}
 ==========
 
 **f1dataR Package**\
-*Author & Maintainer* **2022 -- present**\
+*Author & Maintainer* **2022 -- Present**\
 Support, maintain, and improve R language package for accessing Formula
 1 data via the FastF1 Python package. Includes maintaining R -- Python
 interface via 'reticulate' package, responding to CRAN requests for
 changes, and handling issues as they are raised on GitHub.
 
-**Philip D. Bulsink, B.Sc.** Page 3\
-
 **BulsinkBot**\
-*Designer & Programmer* **2018 -- present**\
+*Designer & Programmer* **2018 -- Present**\
 Developed predictive models for NHL Hockey game, season, and playoff
 results. Posted daily predictions on Twitter, Mastodon and BlueSky
 social networks. Ranked in top 5 predictive performance in annual
 competitions against other amateur and professional prediction models
 from 2019 to present. Provided predictions for dailyfaceoff.com for 2
 years (2021-2022 and 2022--2023).
+
+**Emergency Response Team - CanmetENERGY, Natural Resources Canada**\
+*Team Member & Incident Commander* **2015 -- Present**\
+Act as a first responder for any on-site medical or chemical
+emergencies. Served as backup dispatch and incident commander. Received
+HAZMAT operations from Ottawa Fire Services HAZMAT trainers. Received
+first responder, burn response, trauma response and other topical
+training from Ottawa Paramedic trainers. Annually recertified for SCBA
+operations.
 
 **ChemCalculator.com**\
 *Designer & Programmer* **2013 -- 2017**\
@@ -184,11 +198,7 @@ Counselled peers through personal and academic concerns. Organized floor
 and residence outings. Acted as a liaison between students and the
 Residence Manager.
 
-**Continuing Education**\
-Completed the 'Data Science' specialization on Coursera, offered in
-partnership with Johns Hopkins University.
-
 Affiliations {#sec:mysidestyle-affiliations}
 ============
 
-American Chemical Society (ACS), member 2019 --- Present
+American Chemical Society (ACS), member 2019 -- Present
