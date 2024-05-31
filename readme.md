@@ -1,20 +1,20 @@
-Contact Information
+ Contact Information {#sec:mysidestyle-contactinformation}
 ===================
 
 h: bulsinkp\@gmail.com w: philip.bulsink\@canada.ca
 
-gh: https://github.com/pbulsink\
+gh: https://github.com/pbulsink https://bulsink.ca\
 
-Summary
+Summary {#sec:mysidestyle-summary}
 =======
 
 A proven problem solver with expertise in computational, inorganic, and
 analytical chemistry.\
 Comfortable with aggressive learning curves and development of novel
 ideas.\
-Exploring data analysis using Python and R.
+Adept at writing code in R and VBA to further research objectives.
 
-Education
+Education {#sec:mysidestyle-education}
 =========
 
 **University of Ottawa**\
@@ -39,7 +39,7 @@ Supervisors: Dr. Tom Woo and Dr. Darrin Richeson
 Honour's Thesis: "*Solid Sample Analysis by Microplasma Optical Emission
 Spectroscopy*"
 
-Professional Experience
+ Professional Experience {#sec:mysidestyle-professionalexperience}
 =======================
 
 **Characterization Laboratory, CanmetENERGY, Natural Resources Canada**
@@ -80,7 +80,7 @@ test samples for distribution to other laboratories.
 
 **Philip D. Bulsink, B.Sc.** Page 2\
 
-Honours and Distinctions
+ Honours and Distinctions {#sec:mysidestyle-honours-anddistinctions}
 ========================
 
 Excellence in Science - Departmental Achievement Award, Natural
@@ -99,11 +99,11 @@ Resources Canada**2012**\
 Aileen Proudfoot Award, CanmetENERGY, Natural Resources Canada**2011**\
 Outstanding Co-op ranking, University of Waterloo**2009 -- 2012**
 
-Selected Publications & Presentations
+Selected Publications & Presentations {#sec:mysidestyle-selected-publications-&-presentations}
 =====================================
 
 Bulsink, P., Sant-Anna, S., Giddings, T., "Quantification of components
-without direct calibration by GC-MS/PolyArc/-FID" *American Chemical
+without direct calibration by GC-MS/PolyArc-FID" *American Chemical
 Society*, **2023**
 
 Bulsink, P., "Results of the IEA Bioenergy Round Robin on the Analysis
@@ -114,12 +114,12 @@ Bulsink, P., de Miguel Mercader, F,. Sandström, L., Van De Beld, B.,
 Preto, F., Zacher, A., Oasmaa, A., Dahmen, N., Funke, A., Bronson, B.
 "Results of the International Energy Agency Bioenergy Round Robin on the
 Analysis of Heteroatoms in Biomass Liquefaction Oils", *Energy & Fuels*,
-34, 9, pp. 11123-11133, **2020**
+34, 9, pp. 11123--11133, **2020**
 
 Bulsink, P., Al-Ghamdi, A., Joshi, P., Korobkov, I., Woo, T., Richeson,
 D. "Capturing Re(I) in a neutral N,N,N pincer scaffold and resulting
-enhanced absorption of visible light", *Dalton Trans.*, 45, pp.
-8885-8896, **2016**
+enhanced absorption of visible light", *Dalton Trans.*, 45,
+pp. 8885--8896, **2016**
 
 Bulsink, P. "Transforming the Chemistry of Rhenium I: Physical and
 Theoretical Investigations", *University of Ottawa Thesis*, **2015**.
@@ -127,7 +127,7 @@ Theoretical Investigations", *University of Ottawa Thesis*, **2015**.
 Stanciulescu, M., Bulsink, P., Caravaggio, G., Nossova, L., Burich, R.
 "NH3-TPD-MS study of Ce effect on the surface of Mn- or Fe-exchanged
 zeolites for selective catalytic reduction of NOx by ammonia", *App.
-Surface Sci.*, 300, pp. 201-207, **2014**.
+Surface Sci.*, 300, pp. 201--207, **2014**.
 
 Bulsink, P., Korobkov, I., Woo, T., Richeson, D. "Transforming the
 chemistry of Re^I^ to access the Elusive Pincer Geometry", *CSC
@@ -136,13 +136,13 @@ Inorganic Division Poster Symposium*, **2013**.
 Stanciulescu, M., Caravaggio, G., Dobri, A., Moir, J,. Burich, R.,
 Charland, J.-P., Bulsink, P. "Low-temperature selective catalytic
 reduction of NOx with NH3 over Mn-containing catalysts", *App. Catal. B:
-Env.*, 123-124, pp. 229-240, **2012**.
+Env.*, 123--124, pp. 229--240, **2012**.
 
 Caravaggio, G., Stanciulescu, M., Burich, R., Scheier, B., Bulsink, P.
 "Novel Catalysts for NOx Reduction with Reductants Produced In-Situ",
 *DEER Conference*, **2010**.
 
-Activities
+Activities {#sec:mysidestyle-activities}
 ==========
 
 **f1dataR Package**\
@@ -152,6 +152,8 @@ Support, maintain, and improve R language package for accessing Formula
 interface via 'reticulate' package, responding to CRAN requests for
 changes, and handling issues as they are raised on GitHub.
 
+**Philip D. Bulsink, B.Sc.** Page 3\
+
 **BulsinkBot**\
 *Designer & Programmer* **2018 -- present**\
 Developed predictive models for NHL Hockey game, season, and playoff
@@ -159,7 +161,7 @@ results. Posted daily predictions on Twitter, Mastodon and BlueSky
 social networks. Ranked in top 5 predictive performance in annual
 competitions against other amateur and professional prediction models
 from 2019 to present. Provided predictions for dailyfaceoff.com for 2
-years (2021-2022 and 2022-2023).
+years (2021-2022 and 2022--2023).
 
 **ChemCalculator.com**\
 *Designer & Programmer* **2013 -- 2017**\
@@ -186,7 +188,7 @@ Residence Manager.
 Completed the 'Data Science' specialization on Coursera, offered in
 partnership with Johns Hopkins University.
 
-Affiliations
+Affiliations {#sec:mysidestyle-affiliations}
 ============
 
 American Chemical Society (ACS), member 2019 --- Present
