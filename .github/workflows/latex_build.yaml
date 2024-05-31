@@ -13,7 +13,7 @@ jobs:
       - name: convert to .md
         uses: Ender-events/pandoc@master
         with:
-          args: '-s -o resume.tex readme.md'
+          args: '-s -f latex -t markdown -o readme.md resume.tex'
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:

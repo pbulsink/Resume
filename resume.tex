@@ -1,171 +1,180 @@
-\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
-\PassOptionsToPackage{hyphens}{url}
-%
-\documentclass[
-]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provides euro and other symbols
-\else % if luatex or xelatex
-  \usepackage{unicode-math}
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-\IfFileExists{microtype.sty}{% use microtype if available
-  \usepackage[]{microtype}
-  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\makeatletter
-\@ifundefined{KOMAClassName}{% if non-KOMA class
-  \IfFileExists{parskip.sty}{%
-    \usepackage{parskip}
-  }{% else
-    \setlength{\parindent}{0pt}
-    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
-}{% if KOMA class
-  \KOMAoptions{parskip=half}}
-\makeatother
-\usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdfborder={0 0 0},
-  breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{-2}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-  \let\oldparagraph\paragraph
-  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-  \let\oldsubparagraph\subparagraph
-  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
+%______________________________________________________________________________________________________________________
+% @brief    LaTeX2e Resume for Philip D. Bulsink, BSc., MSc.
+\documentclass[margin,line]{resumecls}
+\topmargin 0mm
 
-% set default figure placement to htbp
-\makeatletter
-\def\fps@figure{htbp}
-\makeatother
-
-
-\date{}
-
+%______________________________________________________________________________________________________________________
 \begin{document}
+\thispagestyle{plain}
+\name{\Large Philip D. Bulsink, B.Sc., M.Sc.}
+\begin{resume}
 
-\#Philip D. Bulsink, BSc., MSc.
+    %__________________________________________________________________________________________________________________
+    % Contact Information
+    \section{\mysidestyle Contact\\Information}
 
-\#\#Contact Information h:
-\href{mailto:bulsinkp@gmail.com}{\nolinkurl{bulsinkp@gmail.com}} w:
-philip.bulsink@canada.ca
+    h: bulsinkp@gmail.com \hspace{60mm} w: philip.bulsink@canada.ca
+\vspace{-4.5mm}
 
-\#\#Summary: A proven problem solver with expertise in computational,
-inorganic, and analytical chemistry. Comfortable with aggressive
-learning curves and development of novel ideas. Exploring data analysis
-using Python and R.
+    gh: https://github.com/pbulsink
+    \\\vspace{-4.5mm}
 
-\#\#Education: Master's Degree, Chemistry, 2015, University of Ottawa *
-Thesis: ``Rhenium(I) Terdentate Compounds: Theoretical and Experimental
-Investigations'' * Seminar: ``Recent Advances in NOx Abatement from
-Diesel Engine Emissions'' * Tasks: Synthesis \& characterization of
-ligands and catalysts with novel photochemical properties. In-depth
-mechanism studies with various computational packages. Developed
-software in Python to simplify \& accelerate work. * Supervisors:
-Dr.~Tom Woo and Dr.~Darrin Richeson
 
-Bachelor of Science, Honour's Chemistry, Co-op, Music Minor, 2012,
-University of Waterloo * Honour's Thesis: ``Solid Sample Analysis by
-Microplasma Optical Emission Spectroscopy''
+    %__________________________________________________________________________________________________________________
+    % Research Interests
+    \section{\mysidestyle Summary}
 
-\#\#Professional Experience: Fuels Chemist, Characterization Laboratory,
-CanmetENERGY, Natural Resources Canada 2014 - Present Perform method
-development and routine analysis, including GC-MS, SEM, and ICP-MS, for
-solid, liquid and gaseous samples. Manage statistical control charts and
-other documentation for ISO9001 certification. Oversee instrument repair
-and maintenance. Represent laboratory at internal and external client
-meetings.
+    A proven problem solver with expertise in computational, inorganic, and analytical chemistry.\\ Comfortable with aggressive learning curves and development of novel ideas.\\ Exploring data analysis using Python and R.
 
-Laboratory Teaching Assistant ,University of Ottawa, University of
-Waterloo September 2011 - May 2014 Teaching assistant for undergraduate
-labs in general, organic, inorganic, analytical, and physical chemistry.
-Demonstrated techniques and explained theoretical basis for experiments.
 
-Research Assistant - DeNOx Group May 2010 - August 2011 (12 months
-total) Research of homogeneous catalysts for removal of NO and NO2 from
-lean burn diesel engine exhaust. Improved catalyst testing procedures.
-Scaled catalyst synthesis by 3 orders of magnitude. Custom-built
-instrumentation and software for investigations. Prepared manuscripts
-for publishing.
+    %__________________________________________________________________________________________________________________
+    % Education
+    \section{\mysidestyle Education}
 
-Analytical Chemist, Kinectrics Inc. September - December 2009 Adhered to
-stringent ISO 17025 and ISO 14000 specifications while performing
-various chemical analysis. Developed, verified, and documented new
-analytical techniques. Prepared and tracked round-robin test samples for
-distribution to other laboratories.
+    \textbf{University of Ottawa}\\\vspace{1mm}%
+    \textsl{Master's Degree} \hfill \textbf{2015}\vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+        \item Thesis: ``\textit{Rhenium\textsuperscript{I} Terdentate Compounds: Theoretical and Experimental Investigations}''
+        \item Seminar: ``\textit{Recent Advances in NO\textsubscript{x} Abatement from Diesel Engine Emissions}''
+        \item Tasks: Synthesis \& characterization of ligands and catalysts with novel photochemical properties.
+        In-depth mechanism studies with various computational packages.
+        Developed software in Python to simplify \& accelerate work.
+        \item Supervisors: Dr. Tom Woo and Dr. Darrin Richeson
+    \end{list2}
 
-Analytical Chemist - Characterization Laboratory, CanmetENERGY, Natural
-Resources Canada January - April 2009 Performed analysis of solid and
-liquid fuel samples. Designed and implemented a software based quality
-control monitoring system to assist ISO 9001:2000 compliance. Repaired
-analytical instruments.
+    \textbf{University of Waterloo}\\\vspace{1mm}%
+    \textsl{Bachelor of Science, Honour's Chemistry, Co-op, Music Minor} \hfill \textbf{2012}\vspace{-3mm}\\\vspace{-1mm}%
+    \begin{list2}
+        \item Honour's Thesis: ``\textit{Solid Sample Analysis by Microplasma Optical Emission Spectroscopy}''
+    \end{list2}
 
-\#\#Honours and Distinctions: * Dean's Scholarship, University of
-Ottawa, 2015 * Dean's Honour Roll, University of Waterloo, University of
-Ottawa, 2011 - 2014 * Graduate Student Poster Award, CSC Inorganic
-Division Poster Symposium, Quebec City, 2013 * Recognition of
-Collaboration Award, CanmetENERGY, Natural Resources Canada, 2012 *
-Aileen Proudfoot Award, CanmetENERGY, Natural Resources Canada, 2011 *
-Outstanding Co-op ranking, University of Waterloo, 2009 - 2012
+    %__________________________________________________________________________________________________________________
+    % Professional Experience
+    \section{\mysidestyle Professional\\Experience}
 
-\#\#Selected Publications: * Bulsink, P. ``Transforming the Chemistry of
-Rhenium I: Physical and Theoretical Investigations'',
-\href{http://www.ruor.uottawa.ca/handle/10393/32065}{Univeresity of
-Ottawa Thesis, 2015}. * Stanciulescu, M., Bulsink, P., Caravaggio, G.,
-Nossova, L., Burich, R. ``NH3-TPD-MS study of Ce effect on the surface
-of Mn- or Fe-exchanged zeolites for selective catalytic reduction of NOx
-by ammonia'', \href{http://dx.doi.org/10.1016/j.apcatb.2012.04.012}{App.
-Surface Sci., 300, pp.~201-207, 2014}. * Bulsink, P., Korobkov, I., Woo,
-T., Richeson, D. ``Transforming the chemistry of Re(I) to access the
-Elusive Pincer Geometry'', CSC Inorganic Division Poster Symposium,
-2013. * Stanciulescu, M., Caravaggio, G., Dobri, A., Moir, J,. Burich,
-R., Charland, J.-P., Bulsink, P. ``Low-temperature selective catalytic
-reduction of NOx with NH3 over Mn-containing catalysts'',
-\href{http://dx.doi.org/10.1016/j.apsusc.2014.01.175}{App. Catal. B:
-Env., 123-124, pp.~229-240, 2012}. * Caravaggio, G., Stanciulescu, M.,
-Burich, R., Scheier, B., Bulsink, P. ``Novel Catalysts for NOx Reduction
-with Reductants Produced In-Situ'', DEER Conference, 2010.
+    \textbf{Characterization Laboratory, CanmetENERGY, Natural Resources Canada} \hfill Ottawa \\\vspace{1mm}%
+    \textsl{Fuels Chemist} \hfill \textbf{2014 -- Present}\\
+    Perform method development and routine analysis, including HPLC, GC-MS, and GCxGC for solid, liquid and gaseous samples.
+    Manage statistical control charts and other documentation for ISO9001 certification.
+    Oversee instrument repair and maintenance.
+    Represent laboratory at internal and external client meetings.
 
-\#\#Activities: Co-Founder, Vice Chair, Giving Refugees Hope in Uganda,
-Ottawa, Ontario, Canada January 2013 - Present Co-founded charitable
-organization assisting refugees in Kampala, Uganda. Administer projects,
-developed website, maintain online \& social media presence. Received
-charitable status from Canadian Revenue Agency in 8 months.
 
-Designer \& Programmer, ChemCalculator.com Developed website containing
-various chemistry calculations not available or not user-friendly
-elsewhere online. Direct application of self-taught and online
-course-based knowledge and principles of programming.
+    \textbf{University of Ottawa, University of Waterloo} \hfill Ontario \\\vspace{1mm}%
+    \textsl{Laboratory Teaching Assistant} \hfill \textbf{September 2011 -- May 2014}\\
+    Teaching assistant for undergraduate labs in general, organic, inorganic, analytical, and physical chemistry.
+    Demonstrated techniques and explained theoretical basis for experiments.
 
-Residence Don, University of Waterloo, Waterloo, Ontario, Canada May -
-August 2009 Responsible for the well-being of 29 first and second year
-students. Counselled peers through personal and academic concerns.
-Organized oor and residence outings. Acted as a liaison between students
-and the Residence Manager.
+    \textbf{CanmetENERGY, Natural Resources Canada}\hfill Ottawa \\\vspace{1mm}%
+    \textsl{Research Assistant - DeNO\textsubscript{x} Group} \hfill \textbf{May 2010 -- August 2011 (12 months total)}\\
+    Research of homogeneous catalysts for removal of NO and NO\textsubscript{2} from lean-burn diesel engine exhaust.
+    Improved catalyst testing procedures.
+    Scaled catalyst synthesis by 3 orders of magnitude.
+    Custom-built instrumentation and software for investigations.
+    Prepared manuscripts for publishing.
 
-Continuing Education: Completed (with verified certificate) portions of
-the `Data Science' specialization on Coursera, offered in partnership
-with John Hopkins University.
+    \textsl{Analytical Chemist - Characterization Laboratory} \hfill \textbf{January -- April 2009}\\
+    Performed analysis of solid and liquid fuel samples.
+    Designed and implemented a software based quality control monitoring system to assist ISO 9001:2000 compliance.
+    Repaired analytical instruments.
 
-\#\#Affiliations: * Chemical Institute of Canada (CIC), member 2011 -
-Present
+    \textbf{Kinectrics Inc.}\hfill Etobicoke\\\vspace{1mm}%
+    \textsl{Analytical Chemist} \hfill \textbf{September -- December 2009}\\
+    Adhered to stringent ISO 17025 and ISO 14000 specifications while performing various chemical analysis.
+    Prepared and tracked round-robin test samples for distribution to other laboratories.
 
+\newpage
+	\textbf{Philip D. Bulsink, B.Sc.} \hspace{279pt} Page 2 \\
+	\vspace{-4mm}
+    %__________________________________________________________________________________________________________________
+    % Honours and Awards
+    \section{\mysidestyle Honours and\\Distinctions}
+
+    Excellence in Science - Departmental Achievement Award,  Natural Resources Canada\hfill\textbf{2023}\vspace{1mm}\\%
+    Positive Workplace Impact - Energy Efficiency \& Technology Sector Award, Natural Resources Canada\hfill\textbf{2022}\vspace{1mm}\\%
+    Innovation \& Creativity - CanmetENERGY-Ottawa Award, Natural Resources Canada\hfill\textbf{2021}\vspace{1mm}\\%
+    Dean's Scholarship, University of Ottawa\hfill\textbf{2015}\vspace{1mm}\\%
+    Dean's Honour Roll, University of Waterloo, University of Ottawa\hfill\textbf{2011 -- 2014}\vspace{1mm}\\%
+    Graduate Student Poster Award, CSC Inorganic Division Poster Symposium, Quebec City\hfill\textbf{2013}\vspace{1mm}\\%
+    Recognition of Collaboration - Departmental Achievement Award, Natural Resources Canada\hfill\textbf{2012}\vspace{1mm}\\%
+    Aileen Proudfoot Award, CanmetENERGY, Natural Resources Canada\hfill\textbf{2011}\vspace{1mm}\\%
+    Outstanding Co-op ranking, University of Waterloo\hfill\textbf{2009 -- 2012}\vspace{1mm}%
+
+    %__________________________________________________________________________________________________________________-
+    % Publications
+    \section{\mysidestyle Selected Publications \& Presentations}
+    Bulsink, P., Sant-Anna, S., Giddings, T., ``Quantification of components without direct calibration by GC-MS/PolyArc\textsuperscript \textregistered /-FID'' \textit{American Chemical Society}, \textbf{2023}
+
+    \vspace{0mm}
+    Bulsink, P., ``Results of the IEA Bioenergy Round Robin on the Analysis of Heteroatoms in Biomass Liquefaction Oils'' \textit{CanmetENERGY-Ottawa Science Seminar}, \textbf{2020}
+
+    \vspace{0mm}
+    Bulsink, P., de Miguel Mercader, F,. Sandstr\"{o}m, L., Van De Beld, B., Preto, F., Zacher, A., Oasmaa, A., Dahmen, N., Funke, A., Bronson, B. ``Results of the International Energy Agency Bioenergy Round Robin on the Analysis of Heteroatoms in Biomass Liquefaction Oils'', \textit{Energy \& Fuels}, 34, 9, pp. 11123-11133, \textbf{2020}
+
+    \vspace{0mm}
+    Bulsink, P., Al-Ghamdi, A., Joshi, P., Korobkov, I., Woo, T., Richeson, D. ``Capturing Re(I) in a neutral N,N,N pincer scaffold and resulting enhanced absorption of visible light'', \textit{Dalton Trans.}, 45, pp. 8885-8896, \textbf{2016}
+
+     \vspace{0mm}
+    Bulsink, P. ``Transforming the Chemistry of Rhenium I: Physical and Theoretical Investigations'', \textit{University of Ottawa Thesis}, \textbf{2015}.
+
+ 	\vspace{0mm}
+    Stanciulescu, M., Bulsink, P., Caravaggio, G., Nossova, L., Burich, R. ``NH3-TPD-MS study of Ce effect on the surface of Mn- or Fe-exchanged zeolites for selective catalytic reduction of NOx by ammonia'', \textit{App. Surface Sci.}, 300, pp. 201-207, \textbf{2014}.
+
+	\vspace{0mm}
+    Bulsink, P., Korobkov, I., Woo, T., Richeson, D. ``Transforming the chemistry of Re\textsuperscript{I} to access the Elusive Pincer Geometry'', \textit{CSC Inorganic Division Poster Symposium}, \textbf{2013}.
+
+	\vspace{0mm}
+    Stanciulescu, M., Caravaggio, G., Dobri, A., Moir, J,. Burich, R., Charland, J.-P., Bulsink, P. ``Low-temperature selective catalytic reduction of NOx with NH3 over Mn-containing catalysts'', \textit{App. Catal. B: Env.}, 123-124, pp. 229-240, \textbf{2012}.
+
+	\vspace{0mm}
+    Caravaggio, G., Stanciulescu, M., Burich, R., Scheier, B., Bulsink, P. ``Novel Catalysts for NOx Reduction with Reductants Produced In-Situ'', \textit{DEER Conference}, \textbf{2010}.
+\vspace{1mm}
+
+    %__________________________________________________________________________________________________________________
+    % Activities
+    \section{\mysidestyle Activities}
+
+    \textbf{f1dataR Package}\\\vspace{1mm}%
+    \textsl{Author \& Maintainer} \hfill \textbf{2022 -- present}\\
+    Support, maintain, and improve R language package for accessing Formula 1 data via the FastF1 Python package.
+    Includes maintaining R -- Python interface via `reticulate' package, responding to CRAN requests for changes, and handling issues as they are raised on GitHub.
+
+    \textbf{BulsinkBot}\\\vspace{1mm}%
+    \textsl{Designer \& Programmer} \hfill \textbf{2018 -- present}\\
+    Developed predictive models for NHL Hockey game, season, and playoff results.
+    Posted daily predictions on Twitter, Mastodon and BlueSky social networks.
+    Ranked in top 5 predictive performance in annual competitions against other amateur and professional prediction models from 2019 to present.
+    Provided predictions for dailyfaceoff.com for 2 years (2021-2022 and 2022-2023).
+
+    \textbf{ChemCalculator.com}\\\vspace{1mm}%
+    \textsl{Designer \& Programmer} \hfill \textbf{2013 -- 2017}\\
+    Developed website containing various chemistry calculations not available or not user-friendly elsewhere online.
+    Direct application of self-taught and online course-based knowledge and principles of programming.
+
+    \textbf{Giving Refugees Hope in Uganda}, Ottawa, Ontario, Canada\\\vspace{1mm}%
+    \textsl{Co-Founder, Vice Chair} \hfill \textbf{2013 -- 2016}\\
+    Co-founded charitable organization assisting refugees in Kampala, Uganda.
+    Administer projects, developed website, maintain online \& social media presence.
+    Received charitable status from Canadian Revenue Agency in 8 months.
+
+    \textbf{University of Waterloo}, Waterloo, Ontario, Canada\\\vspace{1mm}%
+    \textsl{Residence Don} \hfill \textbf{May -- August 2009}\\
+    Responsible for the well-being of 29 first and second year students.
+    Counselled peers through personal and academic concerns.
+    Organized floor and residence outings.
+    Acted as a liaison between students and the Residence Manager.
+
+    \textbf{Continuing Education}\\
+    Completed the `Data Science' specialization on Coursera, offered in partnership with Johns Hopkins University.
+
+\vspace{1mm}
+    %__________________________________________________________________________________________________________________
+    % Affiliations
+    \section{\mysidestyle Affiliations}
+
+    American Chemical Society (ACS), member 2019 -– Present
+
+
+\end{resume}
 \end{document}
+
