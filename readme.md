@@ -1,11 +1,11 @@
- Contact Information {#sec:mysidestyle-contactinformation}
+ Contact Information
 ===================
 
 h: bulsinkp\@gmail.com w: philip.bulsink\@canada.ca
 
-gh: https://github.com/pbulsink web: https://bulsink.ca\
+gh: https://github.com/pbulsink web: https://bulsink.ca/\
 
-Summary {#sec:mysidestyle-summary}
+Summary
 =======
 
 A proven problem solver with expertise in computational, inorganic, and
@@ -14,7 +14,7 @@ Comfortable with aggressive learning curves and development of novel
 ideas.\
 Adept at writing code in R and VBA to further research objectives.
 
-Education {#sec:mysidestyle-education}
+Education
 =========
 
 **University of Ottawa**\
@@ -39,7 +39,7 @@ Supervisors: Dr. Tom Woo and Dr. Darrin Richeson
 Honour's Thesis: "*Solid Sample Analysis by Microplasma Optical Emission
 Spectroscopy*"
 
- Professional Experience {#sec:mysidestyle-professionalexperience}
+ Professional Experience
 =======================
 
 **Characterization Laboratory, CanmetENERGY, Natural Resources Canada**
@@ -77,7 +77,7 @@ Performed analysis of solid and liquid fuel samples. Designed and
 implemented a software based quality control monitoring system to assist
 ISO 9001:2000 compliance. Repaired analytical instruments.
 
-**Kinectrics Inc.**Etobicoke\
+**Kinectrics, Inc.**Etobicoke\
 *Analytical Chemist* **September -- December 2009**\
 Adhered to stringent ISO 17025 and ISO 14000 specifications while
 performing various chemical analysis. Prepared and tracked round-robin
@@ -85,7 +85,7 @@ test samples for distribution to other laboratories.
 
 **Philip D. Bulsink, B.Sc., M.Sc.** Page 2\
 
- Honours and Distinctions {#sec:mysidestyle-honours-anddistinctions}
+ Honours and Distinctions
 ========================
 
 Excellence in Science - Departmental Achievement Award, Natural
@@ -104,7 +104,7 @@ Resources Canada**2012**\
 Aileen Proudfoot Award, CanmetENERGY, Natural Resources Canada**2011**\
 Outstanding Co-op ranking, University of Waterloo**2009 -- 2012**
 
-Selected Publications & Presentations {#sec:mysidestyle-selected-publications-&-presentations}
+Selected Publications & Presentations
 =====================================
 
 Bulsink, P., Sant-Anna, S., Giddings, T., "Quantification of components
@@ -149,7 +149,7 @@ Caravaggio, G., Stanciulescu, M., Burich, R., Scheier, B., Bulsink, P.
 
 **Philip D. Bulsink, B.Sc., M.Sc.** Page 3\
 
-Activities {#sec:mysidestyle-activities}
+Activities
 ==========
 
 **f1dataR Package**\
@@ -198,7 +198,7 @@ Counselled peers through personal and academic concerns. Organized floor
 and residence outings. Acted as a liaison between students and the
 Residence Manager.
 
-Affiliations {#sec:mysidestyle-affiliations}
+Affiliations
 ============
 
 American Chemical Society (ACS), member 2019 -- Present
