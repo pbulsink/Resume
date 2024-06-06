@@ -1,4 +1,4 @@
- Contact Information
+Contact Information
 ===================
 
 h: bulsinkp\@gmail.com w: philip.bulsink\@canada.ca
@@ -8,11 +8,10 @@ gh: https://github.com/pbulsink web: https://bulsink.ca/\
 Summary
 =======
 
-A proven problem solver with expertise in computational, inorganic, and
-analytical chemistry.\
-Comfortable with aggressive learning curves and development of novel
-ideas.\
-Adept at writing code in R and VBA to further research objectives.
+Analytical Chemist with a passion for problem-solving and a proven
+ability to leverage computational tools (R, VBA) to develop novel
+solutions. Thrives in fast-paced environments, excelling at independent
+learning and driving innovative research efforts.
 
 Education
 =========
@@ -39,53 +38,57 @@ Supervisors: Dr. Tom Woo and Dr. Darrin Richeson
 Honour's Thesis: "*Solid Sample Analysis by Microplasma Optical Emission
 Spectroscopy*"
 
- Professional Experience
+Professional Experience
 =======================
 
 **Characterization Laboratory, CanmetENERGY, Natural Resources Canada**
 Ottawa\
 *Fuels Chemist* **2014 -- Present**\
-Develop novel methods and perform routine analysis using FTIR, HPLC,
-GC-MS, and GCxGC for solid, liquid and gaseous samples. Manage client
-relations, including recommending analysis and costing projects. Oversee
-all liquid and gaseous sample analysis, including final verification of
-reported data. Represent laboratory, department, and Canada at internal
-and external client meetings. Designed and managed international
-round-robin studies of Bio-Liquefaction oils. Provide input to research
-project funding proposals and wrap-ups. Member of Emergency Response and
-Building Emergency and Evacuation teams.
+
+Pioneered advanced analytical methods using FTIR, HPLC, GC-MS, and GCxGC
+to unlock new insights from solid, liquid, and gaseous samples.
+
+Cultivated strong client relationships by providing expert analysis
+recommendations and cost-effective project planning.
+
+Championed data quality by overseeing all liquid and gaseous sample
+analysis, personally verifying reported data, and leading ISO17025
+internal audits.
+
+Acted as a scientific liaison at internal and external client and
+committee meetings, representing the laboratory, department, and
+Canadian scientific expertise.
+
+Contributed strategically to research funding proposals, improving
+experimental campaigns and project success.
 
 **University of Ottawa, University of Waterloo** Ontario\
 *Laboratory Teaching Assistant* **September 2011 -- May 2014**\
-Teaching assistant for undergraduate labs in general, organic,
-inorganic, analytical, and physical chemistry. Demonstrated techniques
-and explained theoretical basis for experiments. Supervised students
-performing chemical laboratory exercises.
+
+Supervised undergraduate labs in General, Organic, Inorganic,
+Analytical, and Physical Chemistry, demonstrating techniques, explaining
+theoretical concepts, and ensuring safe and accurate experiment
+execution.
 
 **CanmetENERGY, Natural Resources Canada**Ottawa\
 *Research Assistant - DeNO~x~ Group* **May 2010 -- August 2011 (12
 months total)**\
-Research of homogeneous catalysts for removal of NO and NO~2~ from
-lean-burn diesel engine exhaust. Improved catalyst testing procedures.
-Scaled catalyst synthesis by 3 orders of magnitude. Custom-built
-instrumentation and software for investigations. Prepared manuscripts
-for publishing.
 
-*Analytical Chemist - Characterization Laboratory* **January -- April
-2009**\
-Performed analysis of solid and liquid fuel samples. Designed and
-implemented a software based quality control monitoring system to assist
-ISO 9001:2000 compliance. Repaired analytical instruments.
+Investigated novel homogeneous catalysts for the reduction of nitrogen
+oxides (NOx) in lean-burn diesel engine exhaust.
+
+Scaled catalyst synthesis processes by 3 orders of magnitude.
+
+Custom-built instrumentation and software to support studies.
 
 **Kinectrics, Inc.**Etobicoke\
 *Analytical Chemist* **September -- December 2009**\
-Adhered to stringent ISO 17025 and ISO 14000 specifications while
-performing various chemical analysis. Prepared and tracked round-robin
-test samples for distribution to other laboratories.
 
-**Philip D. Bulsink, B.Sc., M.Sc.** Page 2\
+**Characterization Lab, CanmetENERGY, Natural Resources Canada** Ottawa\
+*Analytical Chemist - Characterization Laboratory* **January -- April
+2009**\
 
- Honours and Distinctions
+Honours and Distinctions
 ========================
 
 Excellence in Science - Departmental Achievement Award, Natural
@@ -109,7 +112,7 @@ Selected Publications & Presentations
 
 Bulsink, P., Sant-Anna, S., Giddings, T., "Quantification of components
 without direct calibration by GC-MS/PolyArc-FID" *American Chemical
-Society*, **2023**
+Society Conference*, **2023**
 
 Bulsink, P., "Results of the IEA Bioenergy Round Robin on the Analysis
 of Heteroatoms in Biomass Liquefaction Oils" *CanmetENERGY-Ottawa
@@ -154,49 +157,39 @@ Activities
 
 **f1dataR Package**\
 *Author & Maintainer* **2022 -- Present**\
-Support, maintain, and improve R language package for accessing Formula
-1 data via the FastF1 Python package. Includes maintaining R -- Python
-interface via 'reticulate' package, responding to CRAN requests for
-changes, and handling issues as they are raised on GitHub.
+
+Developed and maintain an R package that bridges the gap between R and
+Formula 1 data, leveraging a Python library
+
+Ensured seamless data access by maintaining the R--Python interface via
+the 'reticulate' package
+
+Responded to user and custodian feedback by addressing CRAN
+(Comprehensive R Archive Network) demands and handling issues raised on
+GitHub.
 
 **BulsinkBot**\
 *Designer & Programmer* **2018 -- Present**\
-Developed predictive models for NHL Hockey game, season, and playoff
-results. Posted daily predictions on Twitter, Mastodon and BlueSky
-social networks. Ranked in top 5 predictive performance in annual
-competitions against other amateur and professional prediction models
-from 2019 to present. Provided predictions for dailyfaceoff.com for 2
-years (2021-2022 and 2022--2023).
+
+Developed and deployed predictive models for NHL hockey game, season,
+and playoff outcomes, achieving top-5 ranking in accuracy against
+professional and amateur models (2019-present).
+
+Leveraged data analysis to generate daily NHL predictions shared via
+social media platforms (Twitter, Mastodon, and BlueSky).
+
+Provided expert NHL predictions for dailyfaceoff.com for two seasons
+(2021--2022 and 2022--2023).
 
 **Emergency Response Team - CanmetENERGY, Natural Resources Canada**\
 *Team Member & Incident Commander* **2015 -- Present**\
-Act as a first responder for any on-site medical or chemical
-emergencies. Served as backup dispatch and incident commander. Received
-HAZMAT operations from Ottawa Fire Services HAZMAT trainers. Received
-first responder, burn response, trauma response and other topical
-training from Ottawa Paramedic trainers. Annually recertified for SCBA
-operations.
 
-**ChemCalculator.com**\
-*Designer & Programmer* **2013 -- 2017**\
-Developed website containing various chemistry calculations not
-available or not user-friendly elsewhere online. Direct application of
-self-taught and online course-based knowledge and principles of
-programming.
+Comprehensively trained in emergency medical and chemical response
+procedures, including first aid, burn response, trauma/wound care, and
+HAZMAT operations.
 
-**Giving Refugees Hope in Uganda**, Ottawa, Ontario, Canada\
-*Co-Founder, Vice Chair* **2013 -- 2016**\
-Co-founded charitable organization assisting refugees in Kampala,
-Uganda. Administer projects, developed website, maintain online & social
-media presence. Received charitable status from Canadian Revenue Agency
-in 8 months.
-
-**University of Waterloo**, Waterloo, Ontario, Canada\
-*Residence Don* **May -- August 2009**\
-Responsible for the well-being of 29 first and second year students.
-Counselled peers through personal and academic concerns. Organized floor
-and residence outings. Acted as a liaison between students and the
-Residence Manager.
+Acted as backup dispatch, incident commander, and maintained annual SCBA
+recertification.
 
 Affiliations
 ============
