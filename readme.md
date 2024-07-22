@@ -9,9 +9,9 @@ Summary
 =======
 
 Analytical Chemist with a passion for problem-solving and a proven
-ability to leverage computational tools (R, VBA) to develop novel
-solutions. Thrives in fast-paced environments, excelling at independent
-learning and driving innovative research efforts.
+ability to leverage computational tools (R, VBA, Python) to develop
+novel solutions. Thrives in fast-paced environments, excelling at
+independent learning and driving innovative research efforts.
 
 Education
 =========
