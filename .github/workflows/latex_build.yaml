@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v4
-      - name: Compile LaTeX document
+      - name: Compile LaTeX resume
         uses: xu-cheng/latex-action@v3
         with:
           root_file: resume.tex
@@ -19,6 +19,19 @@ jobs:
         with:
           name: PDF
           path: resume.pdf
+      - name: Compile LaTeX cover letter
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: coverletter.tex
+      - name: convert to .md
+        uses: Ender-events/pandoc@master
+        with:
+          args: '-s -f latex -t markdown -o coverletter.md coverletter.tex'
+      - name: Upload PDF file
+        uses: actions/upload-artifact@v4
+        with:
+          name: PDF
+          path: coverletter.pdf
       - name: Commit pdf & .md
         uses: EndBug/add-and-commit@v9
         with:
