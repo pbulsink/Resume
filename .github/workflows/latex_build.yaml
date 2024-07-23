@@ -17,7 +17,7 @@ jobs:
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:
-          name: PDF
+          name: PDFresume
           path: resume.pdf
       - name: Compile LaTeX cover letter
         uses: xu-cheng/latex-action@v3
@@ -30,7 +30,7 @@ jobs:
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:
-          name: PDF
+          name: PDFcoverletter
           path: coverletter.pdf
       - name: Commit pdf & .md
         uses: EndBug/add-and-commit@v9
