@@ -1,9 +1,9 @@
 Contact Information
 ===================
 
-h: bulsinkp\@gmail.com w: philip.bulsink\@canada.ca
+personal: bulsinkp\@gmail.com work: philip.bulsink\@canada.ca
 
-gh: https://github.com/pbulsink web: https://bulsink.ca/\
+GitHub: https://github.com/pbulsink web: https://bulsink.ca/\
 
 Summary
 =======
@@ -28,7 +28,7 @@ Emissions*"
 Tasks: Synthesis & characterization of ligands and catalysts with novel
 photochemical properties. In-depth mechanism studies with various
 computational packages. Developed software in Python to simplify &
-accelerate work.
+accelerate research.
 
 Supervisors: Dr. Tom Woo and Dr. Darrin Richeson
 
@@ -48,19 +48,19 @@ Ottawa\
 Pioneered advanced analytical methods using FTIR, HPLC, GC-MS, and GCxGC
 to unlock new insights from solid, liquid, and gaseous samples.
 
-Cultivated strong client relationships by providing expert analysis
-recommendations and cost-effective project planning.
-
 Championed data quality by overseeing all liquid and gaseous sample
 analysis, personally verifying reported data, and leading ISO17025
 internal audits.
 
-Acted as a scientific liaison at internal and external client and
-committee meetings, representing the laboratory, department, and
-Canadian scientific expertise.
+Cultivated strong client relationships by providing expert analysis
+recommendations and cost-effective experimental design.
 
-Contributed strategically to research funding proposals, improving
-experimental campaigns and project success.
+Acted as a scientific liaison at internal, external client, and
+international and committee meetings, representing the laboratory's,
+departmental, and Canadian scientific expertise.
+
+Contributed to research funding proposals, strengthening experimental
+design and improving project outcomes.
 
 **University of Ottawa, University of Waterloo** Ontario\
 *Laboratory Teaching Assistant* **September 2011 -- May 2014**\
@@ -75,18 +75,11 @@ execution.
 months total)**\
 
 Investigated novel homogeneous catalysts for the reduction of nitrogen
-oxides (NOx) in lean-burn diesel engine exhaust.
+oxides (NO~x~) in lean-burn diesel engine exhaust.
 
 Scaled catalyst synthesis processes by 3 orders of magnitude.
 
 Custom-built instrumentation and software to support studies.
-
-**Kinectrics, Inc.**Etobicoke\
-*Analytical Chemist* **September -- December 2009**\
-
-**Characterization Lab, CanmetENERGY, Natural Resources Canada** Ottawa\
-*Analytical Chemist - Characterization Laboratory* **January -- April
-2009**\
 
 Honours and Distinctions
 ========================
@@ -166,11 +159,8 @@ Activities
 **f1dataR Package**\
 *Author & Maintainer* **2022 -- Present**\
 
-Developed and maintain an R package that bridges the gap between R and
-Formula 1 data, leveraging a Python library
-
-Ensured seamless data access by maintaining the R--Python interface via
-the 'reticulate' package
+Developed and maintain an R package that simplifies accessing Formula 1
+data, leveraging a Python library
 
 Responded to user and custodian feedback by addressing CRAN
 (Comprehensive R Archive Network) demands and handling issues raised on
@@ -203,3 +193,5 @@ Affiliations
 ============
 
 American Chemical Society (ACS), member 2019 -- Present
+
+ASTM International, individual member 2024 -- Present
