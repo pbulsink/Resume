@@ -19,7 +19,7 @@ Education
 **University of Ottawa**\
 *Master's Degree* **2015**\
 
-Thesis: "*Rhenium^I^ Terdentate Compounds: Theoretical and Experimental
+Thesis: "*Rhenium (I) Terdentate Compounds: Theoretical and Experimental
 Investigations*"
 
 Seminar: "*Recent Advances in NO~x~ Abatement from Diesel Engine
@@ -48,19 +48,26 @@ Ottawa\
 Pioneered advanced analytical methods using FTIR, HPLC, GC-MS, and GCxGC
 to unlock new insights from solid, liquid, and gaseous samples.
 
-Championed data quality by overseeing all liquid and gaseous sample
-analysis, personally verifying reported data, and leading ISO17025
-internal audits.
-
 Cultivated strong client relationships by providing expert analysis
 recommendations and cost-effective experimental design.
 
-Acted as a scientific liaison at internal, external client, and
-international and committee meetings, representing the laboratory's,
-departmental, and Canadian scientific expertise.
+Championed data quality by overseeing all liquid and gaseous sample
+analysis, personally verifying all reported data, and certifying as ISO
+17025 internal auditor through CALA.
+
+Represented the laboratory, department, and Canadian scientific
+interests at internal and external client meetings, as well as national
+and international committees.
+
+Spearheaded international round-robin studies of Bio-Liquefaction oils,
+fostering collaboration and advancing scientific understanding of
+analytical methods.
 
 Contributed to research funding proposals, strengthening experimental
 design and improving project outcomes.
+
+Actively participating in Emergency Response and Building Emergency and
+Evacuation teams.
 
 **University of Ottawa, University of Waterloo** Ontario\
 *Laboratory Teaching Assistant* **September 2011 -- May 2014**\
@@ -74,8 +81,8 @@ execution.
 *Research Assistant - DeNO~x~ Group* **May 2010 -- August 2011 (12
 months total)**\
 
-Investigated novel homogeneous catalysts for the reduction of nitrogen
-oxides (NO~x~) in lean-burn diesel engine exhaust.
+Investigated homogeneous catalysts for the reduction of NO~x~ in
+lean-burn diesel engine exhaust.
 
 Scaled catalyst synthesis processes by 3 orders of magnitude.
 
@@ -100,8 +107,8 @@ Resources Canada**2012**\
 Aileen Proudfoot Award, CanmetENERGY, Natural Resources Canada**2011**\
 Outstanding Co-op ranking, University of Waterloo**2009 -- 2012**
 
-Selected Publications & Presentations
-=====================================
+Selected Publications, Works & Presentations
+============================================
 
 Bulsink, P., Sant-Anna, S., Giddings, T., "Quantification of components
 without direct calibration by GC-MS/PolyArc-FID" *American Chemical
@@ -121,15 +128,15 @@ Analysis of Heteroatoms in Biomass Liquefaction Oils", *Energy & Fuels*,
 Bulsink, P., Al-Ghamdi, A., Joshi, P., Korobkov, I., Woo, T., Richeson,
 D. "Capturing Re(I) in a neutral N,N,N pincer scaffold and resulting
 enhanced absorption of visible light", *Dalton Trans.*, 45,
-pp. 8885--8896,
-**2016**.[10.1039/C6DT00661B](https://doi.org/10.1039/C6DT00661B)
+pp. 8885--8896, **2016**.
+[10.1039/C6DT00661B](https://doi.org/10.1039/C6DT00661B)
 
-Bulsink, P. "Transforming the Chemistry of Rhenium I: Physical and
+Bulsink, P. "Transforming the Chemistry of Rhenium (I): Physical and
 Theoretical Investigations", *University of Ottawa Thesis*, **2015**.
 [10.20381/ruor-2762](http://dx.doi.org/10.20381/ruor-2762)
 
 Stanciulescu, M., Bulsink, P., Caravaggio, G., Nossova, L., Burich, R.
-"NH3-TPD-MS study of Ce effect on the surface of Mn- or Fe-exchanged
+"NH~3~-TPD-MS study of Ce effect on the surface of Mn- or Fe-exchanged
 zeolites for selective catalytic reduction of NOx by ammonia", *App.
 Surface Sci.*, 300, pp. 201--207, **2014**.
 [10.1016/j.apsusc.2014.01.175](https://doi.org/10.1016/j.apsusc.2014.01.175)
@@ -140,17 +147,17 @@ features of Re (I) with redox non-innocent pincer ligands", *American
 Chemical Society Conference*, **2014**.
 
 Bulsink, P., Korobkov, I., Woo, T., Richeson, D. "Transforming the
-chemistry of Re^I^ to access the Elusive Pincer Geometry", *CSC
+chemistry of Re^I^ to access the elusive pincer geometry", *CSC
 Inorganic Division Poster Symposium*, **2013**.
 
 Stanciulescu, M., Caravaggio, G., Dobri, A., Moir, J,. Burich, R.,
 Charland, J.-P., Bulsink, P. "Low-temperature selective catalytic
-reduction of NOx with NH3 over Mn-containing catalysts", *App. Catal. B:
-Env.*, 123--124, pp. 229--240, **2012**.
+reduction of NO~x~ with NH~3~ over Mn-containing catalysts", *App.
+Catal. B: Env.*, 123--124, pp. 229--240, **2012**.
 [10.1016/j.apcatb.2012.04.012](https://doi.org/10.1016/j.apcatb.2012.04.012)
 
 Caravaggio, G., Stanciulescu, M., Burich, R., Scheier, B., Bulsink, P.
-"Novel Catalysts for NOx Reduction with Reductants Produced In-Situ",
+"Novel Catalysts for NO~x~ Reduction with Reductants Produced In-Situ",
 *DEER Conference*, **2010**.
 
 Activities
