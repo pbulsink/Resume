@@ -66,6 +66,11 @@ analytical methods.
 Contributed to research funding proposals, strengthening experimental
 design and improving project outcomes.
 
+Led analytical components (including method development) of projects
+related to carbonyl quantification, aqueous phase reforming,
+bioslurries, bio-char surface characterization, GCxGC for functional
+group typing, and FTIR chemometrics.
+
 Actively participating in Emergency Response and Building Emergency and
 Evacuation teams.
 
@@ -109,6 +114,9 @@ Outstanding Co-op ranking, University of Waterloo**2009 -- 2012**
 
 Selected Publications, Works & Presentations
 ============================================
+
+Bulsink, P., and Makanda, U., "PlotFTIR: Production of FTIR spectra
+plots in R", *Pending S&T Pubs Process*
 
 Bulsink, P., Sant-Anna, S., Giddings, T., "Quantification of components
 without direct calibration by GC-MS/PolyArc-FID" *American Chemical
