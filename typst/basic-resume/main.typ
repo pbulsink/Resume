@@ -1,6 +1,8 @@
 #import "@preview/basic-resume:0.2.9": *
 
-// Put your personal information here, replacing mine
+//run typst watch main.typ in directory to get compile on chagne. 
+
+// Personal info 
 #let name = "Philip Bulsink"
 #let location = "Ottawa, Ontario"
 #let email = "philip.bulsink@nrcan-rncan.gc.ca" // Change for personal if needed
@@ -53,7 +55,7 @@
 */
 
 == Summary
-Senior analytical chemist with over a decade of experience leading advanced chromatographic and spectroscopic method development to drive biofuel and pyrolysis oil characterization. Proven track record of leading international interlaboratory studies, spearheading novel analytical approaches for complex biorefinery matrices, and authoring peer-reviewed publications. Experienced in collaborating across multi-disciplinary teams of RES scientists, research engineers, and technologists to transform complex analytical data into actionable research insights.
+Senior analytical chemist with over a decade of experience leading advanced chromatographic and spectroscopic method development to drive biofuel and material characterization. Experienced in synthetic chemistry techniques, _in situ_ sample derivatization, and hands-on instrument maintenance across a range of manufacturers. Proven track record of translating complex scientific concepts into high-level briefings for non-technical leadership and authoring technical reports.
 
 == Current Position
 
@@ -61,30 +63,29 @@ Senior analytical chemist with over a decade of experience leading advanced chro
   title: "Fuels Chemist (CH-03)",
   location: "Ottawa, Ontario",
   company: "Characterization Laboratory, CanmetENERGY-Ottawa, Natural Resources Canada",
-  dates: dates-helper(start-date: "October 2014", end-date: "Present"),
+  dates: dates-helper(start-date: "September 2014", end-date: "Present"),
 )
-- Perform detailed chemical and physical analyses of petroleum- and bio-derived fuels and liquid research products using advanced chromatographic and spectroscopic techniques.
-- Pioneer analytical methods using custom-built chromatographic and spectroscopic equipment (GC-FID/MS, GCxGC-FID, GCxGC-FID/MS, FTIR) to characterize biofuels and petroleum fuels, resolving complex analytical bottlenecks for research groups and industry partners.
-- Engineer custom chemometric algorithms and open-source R tools to automate complex spectroscopic data analysis and visualization across research projects.
-- Process and interpret high-dimensional analytical data to deliver actionable insights and support fuel production research scientists.
-- Lead and co-author journal publications and conference presentations, contributing to the dissemination of research findings.
+- Perform detailed chemical analyses of complex sample matrices using advanced analytical techniques.
+- Manage the full-lifecycle of a multi-vendor scientific instrumentation fleet, including acquisition, implementation maintenance, calibration, troubleshooting, repair, and disposition.
+- Pioneer analytical methods using advanced chemical techniques and custom-built chromatographic and spectroscopic equipment (such as GC-FID/MS, GCxGC-FID, GCxGC-FID/MS, FTIR, and Raman) to characterize biofuels and petroleum products, resolving complex analytical bottlenecks for research groups and industry partners.
+- Develop custom chemometric algorithms and open-source R tools to automate complex spectroscopic data analysis and visualization across research projects.
+- Translate complex chemometric data into executive summaries, high-level briefings, and actionable technical reports for non-technical stakeholders and interdisciplinary teams.
+- Lead and co-author journal publications and presentations, contributing to the dissemination of research findings.
 - Contribute to research funding proposals, strengthening experimental design and improving project outcomes.
 - Represent the laboratory, department, and Canadian scientific interests at internal, national and international fora, including conferences, technical meetings, working groups, and standards boards.
-- Spearheaded international round-robin studies of bio-liquefaction oils, fostering collaboration and advancing scientific understanding of analytical methods.
 - Champion data quality systems by serving as a CALA-certified ISO 17025 internal auditor, verifying complex analytical processes to ensure strict compliance and experimental reliability.
-- Train and support junior staff and co-op students, fostering a culture of knowledge sharing and professional development within the laboratory.
+- Train and support junior staff and co-op students, fostering a culture of knowledge sharing and professional development.
 - Act up as CH-04 with managerial and Sections 32 & 34 authority, as required.
 
-=== Key Projects and Activities
+=== _Key Projects and Activities_
 
 #project(
-  name: "SPME Analysis of Biorefinery Products",
+  name: "SPME & Derivatization Analysis of Biorefinery Streams",
   role: "Method Development Lead", 
   dates: dates-helper(start-date: "2025", end-date: "Present"),
-  // url: 
 )
-- Developing analytical methodology (using Design of Experiment techniques) for analysis of products produced in a biorefinery, regardless of matrix.
-- Achieves high sensitivity and good robustness for key carbonyl target compounds impacting employee health and safety.
+- Developed _in situ_ derivatization and SPME workflows using Design of Experiment (DoE) principles to capture, stabilize, and quantify reactive carbonyl target compounds in solid and liquid biorefinery products.
+- Prepared comprehensive technical reports detailing occupational exposure risks of different matrices.
 
 #project(
   name: "PlotFTIR",
@@ -95,7 +96,17 @@ Senior analytical chemist with over a decade of experience leading advanced chro
   // URL is also optional
   url: "https://nrcan.github.io/PlotFTIR",
 )
-- Developed an R package for plotting and analyzing Fourier Transform Infrared (FTIR) spectroscopy data, enabling researchers to visualize and interpret complex spectral information effectively.
+- Developed an R package for plotting and analyzing Fourier Transform Infrared (FTIR) and Raman spectroscopy data, enabling researchers to visualize and interpret complex spectral information effectively.
+
+#project(
+  name: "International Round Robin Studies",
+  role: "Author and Principle Investigator",
+  dates: dates-helper(start-date: "2020", end-date: "2025"),
+)
+- Lead international round-robin studies of bio-liquefaction oils on behalf of Canada at IEA Bioenergy Task34. 
+- Produced two first-author papers, fostered international collaboration and improved understanding of analytical methods.
+//  - Results lead to recommend changes to ASTM Standard Specifications for Fast Pyrolysis Bio-Oil.
+
 
 #project(
   name: "GC-FID/MS Semiquantitative Analysis",
@@ -103,17 +114,19 @@ Senior analytical chemist with over a decade of experience leading advanced chro
   dates: dates-helper(start-date: "2018", end-date: "2022"),
   // url: 
 )
-- Built chromatographic method and custom data analysis algorithms to produce semiquantitative compositional reports with nearly 100% mass balance for complex samples. This highly robust technique supports petroleum, low carbon/renewable fungible fuels, and bio-fuel product and process development to the present day.
+- Built chromatographic method and custom data analysis algorithms to produce semiquantitative compositional reports with nearly 100% mass balance for complex samples. 
+- Validated method validity on petroleum, low carbon/renewable fungible fuels, and bio-fuel products.  
 
 #project(
-  name: "Emergency Response Team",
+  name: "Emergency Response and Building Evacuation Teams",
   //role: "", 
   dates: dates-helper(start-date: "2015", end-date: "Present"),
   // url: 
 )
 - Comprehensively trained in emergency medical and chemical response procedures, including advanced first aid, burn response, trauma/wound care, emergency triage, scene control and hazardous spill control operations.
-- Act as backup dispatch, incident commander, and technical HAZMAT expert.
-- Maintain annual SCBA recertification.
+- Perform backup dispatch, incident commander, and technical HAZMAT expert roles.
+- Serve as Chief Building Evacuation Warden, responding to all facilities hazards.
+//- Maintain annual SCBA recertification.
 
 == Previous Experience
 
@@ -186,14 +199,13 @@ Senior analytical chemist with over a decade of experience leading advanced chro
 #certificates(name: "Aileen Proudfoot Award", issuer: "Branch Award, CanmetENERGY-Ottawa", date: "2011") \ 
 
 == Technical Skills & Expertise
-- *Coding & Data Analysis Tools*: 
-  - R (package development, CRAN maintenance), Python, VBA, RDKit
-  - Agilent MassHunter, Agilent Chemstation, Bruker TopSpin, Gaussian, TurboMol
-- *Analytical Instrument Experience*: 
-  - Agilent Gas Chromatography Systems, including PAL autosamplers with liquid, headspace, and SPME sampling; FID, mass spectral, FPD, PFPD, and TCD detectors; and custom multi-column setups with CFT Flow splitters or GCxGC flow valves
-  - FTIR instruments (ATR 5-bounce and 1-bounce systems, DRIFTS)
-  - NMR spectroscopy, HPLC, UV-Vis, elemental analyzers, titrators, and other standard laboratory instrumentation
-- *Linguistic Profile*: English native | French CBA
+- *Analytical Instrumentation & Maintenance*: 
+  - Extensive hands-on operation, routine maintenance, hardware troubleshooting, and calibration of Agilent GC systems (FID, MS, FPD, PFPD, TCD), PAL autosamplers, and FTIR spectrometers.
+- *Methodologies & Synthesis*: 
+  - _In situ_ derivatization, SPME, sample preparation, synthetic chemistry techniques, Design of Experiments (DoE), chemometric modeling.
+- *Software & Data Analysis*: 
+  - R (package development, CRAN maintenance), Python, VBA, RDKit, Agilent MassHunter, Agilent ChemStation, Bruker TopSpin, Gaussian, TurboMole.
+- *Linguistic Profile*: English Native | French CBA
 
 == Selected Publications and Presentations
 

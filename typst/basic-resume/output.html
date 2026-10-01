@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Philip Bulsink</title><meta name="authors" content="Philip Bulsink"><style>/* Alignment */
+mtable.right-align mtd,
+mtable mtd.right-align,
+mtable.left-align mtd.right-align,
+mtable.aligned mtd:nth-child(odd) {
+  justify-items: end;
+  text-align: right;
+}
+mtable.cases mtd,
+mtable.left-align mtd,
+mtable mtd.left-align,
+mtable.aligned mtd:nth-child(even),
+math:is(:not([display])) > mtable.multiline-equation mtd {
+  justify-items: start;
+  text-align: left;
+}
+mtable.cases mtd,
+mtable.aligned mtd,
+mtable mtd.flushed,
+mtable mtd.left-flush {
+  padding-left: 0;
+}
+mtable.cases mtd,
+mtable.aligned mtd,
+mtable mtd.flushed,
+mtable mtd.right-flush {
+  padding-right: 0;
+}
+
+/* Tables */
+mtable {
+  math-style: inherit;
+}
+mtd {
+  math-depth: auto-add;
+  math-style: compact;
+  math-shift: compact;
+}
+
+/* Equations */
+mtable.multiline-equation mtd {
+  math-depth: inherit;
+  math-style: inherit;
+  math-shift: inherit;
+  padding: 0;
+}
+math > mtable.multiline-equation mtr:not(:last-child) mtd {
+  padding-bottom: 0.5em;
+}
+
+/* Fractions */
+mfrac {
+  padding-inline: 0;
+  margin-inline: 0.1em;
+}
+
+/* Accents */
+mover[accent="true" i] > :first-child {
+  font-feature-settings: "dtls";
+}
+mover.dotted[accent="true" i] > :first-child {
+  font-feature-settings: "dtls" 0;
+}
+
+/* Other rules for scriptlevel, displaystyle and math-shift */
+munder > :nth-child(2),
+munderover > :nth-child(2) {
+  math-shift: compact
+}
+munder[accentunder="true" i] > :not(:first-child),
+mover[accent="true" i] > :not(:first-child) {
+  math-depth: inherit;
+  math-style: inherit;
+  math-shift: inherit;
+}</style></head><body><p>Senior analytical chemist with over a decade of experience leading advanced chromatographic and spectroscopic method development to drive biofuel and material characterization. Experienced in synthetic chemistry techniques, in situ sample derivatization, and hands-on instrument maintenance across multi-vendor mass spectrometers and chromatographs. Proven track record of translating complex scientific concepts into high-level briefings for non-technical leadership and authoring technical reports.</p><p><strong>Fuels Chemist (CH-03)</strong>October 2014 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> Present<br>Characterization Laboratory, CanmetENERGY-Ottawa, Natural Resources Canada<em>Ottawa, Ontario</em></p><ul><li>Perform detailed chemical and physical analyses of complex organic matrices using advanced chromatographic and spectroscopic techniques.</li><li>Manage full-lifecycle maintenance, troubleshooting, and calibration for complex multi-vendor instrument fleets (GC-MS, GCxGC-FID/MS, FTIR).</li><li>Translate complex chemometric data into executive summaries, high-level briefings, and actionable technical reports for non-technical stakeholders and interdisciplinary teams.</li><li>Pioneer analytical methods using custom-built chromatographic and spectroscopic equipment (GC-FID/MS, GCxGC-FID, GCxGC-FID/MS, FTIR) to characterize biofuels and petroleum fuels, resolving complex analytical bottlenecks for research groups and industry partners.</li><li>Develop and execute <strong>in situ</strong> derivatization procedures and synthetic sample preparation workflows to enhance analytical resolution for challenging targets.</li><li>Engineer custom chemometric algorithms and open-source R tools to automate complex spectroscopic data analysis and visualization across research projects.</li><li>Lead and co-author journal publications and presentations, contributing to the dissemination of research findings.</li><li>Contribute to research funding proposals, strengthening experimental design and improving project outcomes.</li><li>Represent the laboratory, department, and Canadian scientific interests at internal, national and international fora, including conferences, technical meetings, working groups, and standards boards.</li><li>Spearheaded international round-robin studies of bio-liquefaction oils, fostering collaboration and advancing scientific understanding of analytical methods.</li><li>Champion data quality systems by serving as a CALA-certified ISO 17025 internal auditor, verifying complex analytical processes to ensure strict compliance and experimental reliability.</li><li>Train and support junior staff and co-op students, fostering a culture of knowledge sharing and professional development within the laboratory.</li><li>Act up as CH-04 with managerial and Sections 32 &amp; 34 authority, as required.</li></ul><h4>Key Projects and Activities</h4><p><strong>Method Development Lead</strong>, SPME &amp; Derivatization Analysis of Biorefinery Streams2025 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> Present</p><ul><li>Developed <strong>in situ</strong> derivatization and SPME workflows using Design of Experiment (DoE) principles to capture, stabilize, and quantify reactive carbonyl target compounds.</li><li>Prepared comprehensive technical reports and safety assessments detailing occupational exposure risks.</li></ul><p><strong>Developer &amp; Maintainer</strong>, PlotFTIR (<span style="text-decoration: underline"><a href="https://https://nrcan.github.io/PlotFTIR">https://nrcan.github.io/PlotFTIR</a></span>)2024 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> Present</p><ul><li>Developed an R package for plotting and analyzing Fourier Transform Infrared (FTIR) spectroscopy data, enabling researchers to visualize and interpret complex spectral information effectively.</li></ul><p><strong>Method Development Lead</strong>, GC-FID/MS Semiquantitative Analysis2018 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> 2022</p><ul><li>Built chromatographic method and custom data analysis algorithms to produce semiquantitative compositional reports with nearly 100% mass balance for complex samples. This highly robust technique supports petroleum, low carbon/renewable fungible fuels, and bio-fuel product and process development to the present day.</li></ul><p><strong>Emergency Response Team</strong>2015 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> Present</p><ul><li>Comprehensively trained in emergency medical and chemical response procedures, including advanced first aid, burn response, trauma/wound care, emergency triage, scene control and hazardous spill control operations.</li><li>Act as backup dispatch, incident commander, and technical HAZMAT expert.</li><li>Maintain annual SCBA recertification.</li></ul><p><strong>Research Assistant (Co-Op)</strong>2010 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> 2011<br>DeNOx Group,<span style="white-space: pre-wrap">&#x20;&#x20;</span>CanmetENERGY-Ottawa,<span style="white-space: pre-wrap">&#x20;&#x20;</span>Natural Resources Canada<em>Ottawa, Ontario</em></p><ul><li>Investigated homogeneous catalysts for the reduction of NO<sub>x</sub> in lean-burn diesel engine exhaust.</li><li>Scaled catalyst synthesis by three orders of magnitude.</li><li>Custom-built analytical instrumentation and analysis software to support research inquiries.</li></ul><p><strong>Laboratory Teaching Assistant</strong>September 2011 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> May 2014<br>University of Ottawa / University of Waterloo<em>Ottawa / Waterloo, Ontario</em></p><ul><li>Supervised undergraduate laboratories across analytical, organic, inorganic, and physical chemistry, instructing on advanced techniques and lab safety protocols.</li></ul><p><strong>University of Ottawa</strong>2012 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> 2014<br><em>Master's of Science, Chemistry</em><em>Ottawa, Ontario</em></p><ul><li>Thesis: “Rhenium (I) Terdentate Compounds: Theoretical and Experimental Investigations”</li><li>Seminar: “Recent Advancements in NO<sub>x</sub> Abatement from Diesel Engine Emissions”</li></ul><p><strong>University of Waterloo</strong>2007 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> 2012<br><em>Bachelor's of Science, Honours Chemistry (Co-op), Music Minor</em><em>Waterloo, Ontario</em></p><ul><li>Thesis: “Solid Sample Analysis by Microplasma Optical Emission Spectroscopy”</li><li>Achieved “Outstanding” co-op term ranking for each of the 5 work terms (2008-2012)</li></ul><p><strong>Clerk of Council (Executive Committee), Kanata Community Church</strong>2024 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> Present</p><ul><li>Provide executive governance and administrative leadership for the church, managing council records, overseeing committee logistics, and supporting strategic operations and policy execution.</li></ul><p><strong>Author &amp; Maintainer, f1dataR R Package</strong>2023 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> Present</p><ul><li>Developed and maintain an open-source R package for F1 data analytics, managing CRAN submission requirements, automated test coverage workflows, and community issue tracking on GitHub.</li></ul><p><strong>Scientific Innovation</strong>, Branch Award, CanmetENERGY-Ottawa2026<br><strong>Excellence in Science</strong>, Departmental Award, Natural Resources Canada2023<br><strong>Positive Workplace Impact</strong>, Sector Award, Energy Efficiency &amp; Technology2022<br><strong>Innovation &amp; Creativity</strong>, Branch Award, CanmetENERGY-Ottawa2021<br><strong>Dean's Scholarship</strong>, University of Ottawa2015<br><strong>Dean's Honour Roll</strong>, University of Waterloo; University of Ottawa2011-2014<br><strong>Recognition of Collaboration</strong>, Departmental Award, Natural Resources Canada2012<br><strong>Aileen Proudfoot Award</strong>, Branch Award, CanmetENERGY-Ottawa2011<br></p><ul><li><p><strong>Analytical Instrumentation &amp; Maintenance</strong>:</p><ul><li>Extensive hands-on operation, routine maintenance, hardware troubleshooting, and calibration of Agilent GC systems (FID, MS, FPD, PFPD, TCD), PAL autosamplers, and FTIR spectrometers.</li></ul></li><li><p><strong>Methodologies &amp; Synthesis</strong>:</p><ul><li><strong>In situ</strong> derivatization, SPME, sample preparation, synthetic chemistry techniques, Design of Experiments (DoE), chemometric modeling.</li></ul></li><li><p><strong>Software &amp; Data Analysis</strong>:</p><ul><li>R (package development, CRAN maintenance), Python, VBA, RDKit, Agilent MassHunter, Agilent ChemStation, Bruker TopSpin, Gaussian, TurboMole.</li></ul></li><li><strong>Linguistic Profile</strong>: English Native | French CBA</li></ul><ul><li><strong>Bulsink, P.</strong>; <em>et al.</em> (2026) “Characterization of Volatile Carbonyl Compounds in Biorefinery Streams using SPME-GC: Implications for Occupational Health and Safety” <strong>Pyro2026 Conference</strong>. Pisa, Italy</li><li>Zhang, Y.; Monnier, J.; <strong>Bulsink, P.</strong>; <em>et al.</em> (2025). “Evaluation of diesel fuel production from bio-oils hydrodeoxygenation using unsupported MoS<sub>2</sub> catalysts” <strong>Fuel Processing Technology</strong>, 276, 108290. <span style="text-decoration: underline"><a href="https://doi.org/10.1016/j.fuproc.2025.108290">10.1016/j.fuproc.2025.108290</a></span>.</li><li><strong>Bulsink, P.</strong>; <em>et al.</em> (2025). “Multidimensional Chromatography of Bio/Renewable Energy Products “ <strong>Canadian Society of Chemistry Conference</strong>. Ottawa, Ontario</li><li><strong>Bulsink, P.</strong>; <em>et al.</em> (2025). “Interlaboratory Study of Sample Homogeneity Impact on CHNS, Water, and ICP Analysis of Biomass Liquefaction Oils” <strong>Energy &amp; Fuels</strong>, 39 (29), 14223-14236. <span style="text-decoration: underline"><a href="https://doi.org/10.1021/acs.energyfuels.5c01309">10.1021/acs.energyfuels.5c01309</a></span>.</li><li><strong>Bulsink, P.</strong>; <em>et al.</em> (2023). “Quantification of components without direct calibration by GC-MS/PolyArc<sup>®︎</sup>-FID” <strong>American Chemical Society Conference</strong>. San Francisco, California</li><li><strong>Bulsink, P.</strong> (2021). “Gas Chromatographic and Mass Spectral Analysis in Characterization Lab” <em>CanmetENERGY-Ottawa Science Seminar</em></li><li><strong>Bulsink, P.</strong>; <em>et al.</em> (2020). “Results of the IEA Bioenergy Round Robin on the Analysis of Heteroatoms in Biomass Liquefaction Oils” <em>CanmetENERGY-Ottawa Science Seminar</em></li><li><strong>Bulsink, P.</strong>; <em>et al.</em> (2020). “Results of the International Energy Agency Bioenergy Round Robin on the Analysis of Heteroatoms in Biomass Liquefaction Oils” <strong>Energy &amp; Fuels</strong>, 34 (9), 11123-11133. <span style="text-decoration: underline"><a href="https://doi.org/10.1021/acs.energyfuels.0c02090">10.1021/acs.energyfuels.0c02090</a></span>.</li><li><strong>Bulsink, P.</strong>; <em>et al.</em> (2016). “Capturing Re(I) in an neutral N,N,N pincer Scaffold and resulting enhanced absorption of visible light” <strong>Dalton Transactions</strong> 45, 8885-8896. <span style="text-decoration: underline"><a href="https://doi.org/10.1039/c6dt00661b">10.1039/c6dt00661b</a></span>.</li><li>Stanciulescu, M.; <strong>Bulsink, P.</strong>; <em>et al.</em> (2014). “NH<sub>3</sub>-TPD-MS study of Ce effect on the surface of Mn-or Fe-exchanged zeolites for selective catalytic reduction of NO<sub>x</sub> by ammonia” <strong>Applied Surface Science</strong> 300, 201-207. <span style="text-decoration: underline"><a href="https://doi.org/10.1016/j.apsusc.2014.01.175">10.1016/j.apsusc.2014.01.175</a></span>.</li><li>Stanciulescu, M; Caravaggio, G.; Dobri, A.; Moir, J.; Burich, R.; Charland, J.-P.; <strong>Bulsink, P.</strong>; (2012). “Low-temperature selective catalytic reduction of NO<sub>x</sub> with NH<sub>3</sub> over Mn-containing catalysts” <strong>Applied Catalysis B: Environmental</strong> 123, 229-240. <span style="text-decoration: underline"><a href="https://doi.org/10.1016/j.apcatb.2012.04.012">10.1016/j.apcatb.2012.04.012</a></span>.</li></ul><ul><li>ASTM International2024 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> Present</li><li>American Chemical Society2019 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> 2026</li><li>CGSB Petroleum Fuels Board2016 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> 2025</li><li>Canadian Society for ChemistryPeriodic Member, 2013 <math><mo separator="true" lspace="0em" rspace="0em">—</mo></math> 2025</li></ul></body></html>
