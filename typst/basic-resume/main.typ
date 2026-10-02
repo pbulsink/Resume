@@ -29,7 +29,7 @@
   // feel free to comment those lines out and they will not show.
   location: location,
   email: email,
-  github: github,
+  //github: github,
   //linkedin: linkedin,
   phone: phone,
   //personal-site: personal-site,
@@ -55,7 +55,7 @@
 */
 
 == Summary
-Senior analytical chemist with over a decade of experience leading advanced chromatographic and spectroscopic method development to drive biofuel and material characterization. Experienced in synthetic chemistry techniques, _in situ_ sample derivatization, and hands-on instrument maintenance across a range of manufacturers. Proven track record of translating complex scientific concepts into high-level briefings for non-technical leadership and authoring technical reports.
+Senior analytical chemist with 10+ years of experience integrating advanced chromatography, spectroscopy, chemometrics, and scientific software development to solve complex characterization challenges in bioenergy and petroleum research. Recognized for leading international interlaboratory studies, developing novel analytical methods, and translating scientific findings into strategic advice for government and industry stakeholders.
 
 == Current Position
 
@@ -100,7 +100,7 @@ Senior analytical chemist with over a decade of experience leading advanced chro
 
 #project(
   name: "International Round Robin Studies",
-  role: "Author and Principle Investigator",
+  role: "Author and Principal Investigator",
   dates: dates-helper(start-date: "2020", end-date: "2025"),
 )
 - Lead international round-robin studies of bio-liquefaction oils on behalf of Canada at IEA Bioenergy Task34. 
@@ -115,7 +115,7 @@ Senior analytical chemist with over a decade of experience leading advanced chro
   // url: 
 )
 - Built chromatographic method and custom data analysis algorithms to produce semiquantitative compositional reports with nearly 100% mass balance for complex samples. 
-- Validated method validity on petroleum, low carbon/renewable fungible fuels, and bio-fuel products.  
+- Validated method validity on petroleum, low carbon/renewable fungible fuels, and biofuel products.  
 
 #project(
   name: "Emergency Response and Building Evacuation Teams",
@@ -177,7 +177,7 @@ Senior analytical chemist with over a decade of experience leading advanced chro
 == Extracurriculars & Community Leadership
 
 #extracurriculars(
-  activity: "Clerk of Council (Executive Committee), Kanata Community Church",
+  activity: "Chair of Council (Executive Committee), Kanata Community Church",
   dates: dates-helper(start-date: "2024", end-date: "Present")
 )
 - Provide executive governance and administrative leadership for the church, managing council records, overseeing committee logistics, and supporting strategic operations and policy execution.
@@ -186,7 +186,7 @@ Senior analytical chemist with over a decade of experience leading advanced chro
   activity: "Author & Maintainer, f1dataR R Package",
   dates: dates-helper(start-date: "2023", end-date: "Present")
 )
-- Developed and maintain an open-source R package for F1 data analytics, managing CRAN submission requirements, automated test coverage workflows, and community issue tracking on GitHub.
+- Develop and maintain an open-source R package for Formula 1 data analytics, managing CRAN submission requirements, automated test coverage workflows, and community issue tracking on GitHub.
 
 == Awards and Distinctions
 #certificates(name: "Scientific Innovation", issuer: "Branch Award, CanmetENERGY-Ottawa", date: "2026") \ 
